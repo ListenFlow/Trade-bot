@@ -4,7 +4,7 @@ pandas
 numpy
 
 Listen Flow, [07.02.2025 14:15]
-cd /путь/к/папке/bybit-trading-bot
+cd /ГЇГіГІГј/ГЄ/ГЇГ ГЇГЄГҐ/bybit-trading-bot
 git init
 git add .
 git commit -m "Initial commit"
